@@ -1,0 +1,1 @@
+select USERID from CSETEAM61.SIPMEMBER where SIPID = 'brfc' and USERID = 'appu'
